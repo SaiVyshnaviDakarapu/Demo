@@ -1,0 +1,9 @@
+{
+    "name": "projectname",
+    "version": "1.0.0",
+    "description": "",
+    "trans": {
+      "input": "D:\\File_Handling_JS\\ExcelFile\\TestData.xlsx",
+      "output": "D:\\File_Handling_JS\\ExcelToJSON\\ExcelToJOSOEonverted.json"
+    }
+  }

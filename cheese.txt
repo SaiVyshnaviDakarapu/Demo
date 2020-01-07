@@ -1,0 +1,12 @@
+[2019-12-13T17:52:40.652] [DEBUG] cheese - Some debug messages
+[2019-12-13T17:52:40.655] [DEBUG] cheese - Got cheese.
+[2019-12-13T17:52:40.655] [INFO] cheese - Cheese is Comté.
+[2019-12-13T17:52:40.655] [WARN] cheese - Cheese is quite smelly.
+[2019-12-13T17:52:40.655] [ERROR] cheese - Cheese is too ripe!
+[2019-12-13T17:52:40.655] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2019-12-17T16:07:06.978] [DEBUG] cheese - Some debug messages
+[2019-12-17T16:07:06.981] [DEBUG] cheese - Got cheese.
+[2019-12-17T16:07:06.981] [INFO] cheese - Cheese is Comté.
+[2019-12-17T16:07:06.981] [WARN] cheese - Cheese is quite smelly.
+[2019-12-17T16:07:06.981] [ERROR] cheese - Cheese is too ripe!
+[2019-12-17T16:07:06.981] [FATAL] cheese - Cheese was breeding ground for listeria.
